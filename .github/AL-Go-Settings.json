@@ -7,7 +7,7 @@
     "Environmentname": "Sandbox",
     "ContinuousDeployment": true
   },
-    "DeployToProduction": {
+  "DeployToProduction": {
     "Environmentname": "Production",
     "ContinuousDeployment": false
   },
