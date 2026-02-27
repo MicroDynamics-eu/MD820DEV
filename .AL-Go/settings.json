@@ -4,5 +4,6 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "useDevContainer": true
+  "useDevContainer": true,
+  "repoVersion": "2.0"
 }

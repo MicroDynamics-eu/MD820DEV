@@ -2,7 +2,7 @@
   "id": "41e9d698-ea0d-410d-a52a-c658e34c50cc",
   "name": "md820",
   "publisher": "MicroDynamics",
-  "version": "1.0.0.0",
+  "version": "2.0.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -28,5 +28,5 @@
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
   },
- "applicationInsightsConnectionString": "InstrumentationKey=fa09ab83-70a5-4a8f-8059-c7e07f738972;IngestionEndpoint=https://northeurope-2.in.applicationinsights.azure.com/;LiveEndpoint=https://northeurope.livediagnostics.monitor.azure.com/;ApplicationId=b8f24af9-8020-4167-86f9-489f9722f4d4"
+  "applicationInsightsConnectionString": "InstrumentationKey=fa09ab83-70a5-4a8f-8059-c7e07f738972;IngestionEndpoint=https://northeurope-2.in.applicationinsights.azure.com/;LiveEndpoint=https://northeurope.livediagnostics.monitor.azure.com/;ApplicationId=b8f24af9-8020-4167-86f9-489f9722f4d4"
 }
