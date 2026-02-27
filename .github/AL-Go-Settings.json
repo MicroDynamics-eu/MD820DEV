@@ -9,7 +9,7 @@
   },
   "DeployToProduction": {
     "Environmentname": "Production",
-    "ContinuousDeployment": false
+    "ContinuousDeployment": true
   },
   "useCompilerFolder": false,
   "doNotPublishApps": false
