@@ -3,7 +3,7 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "templateSha": "63fc1e7b31ee4a59816fd92aff26bdd3924de4ec",
-  "DeployToSandbox: {
+  "DeployToSandbox": {
     "Environmentname": "Sandbox",
     "ContinuousDeployment": true
   }
