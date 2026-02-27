@@ -6,4 +6,5 @@
   "DeployToSandbox: {
     "Environmentname": "Sandbox",
     "ContinuousDeployment": true
+  }
 }
