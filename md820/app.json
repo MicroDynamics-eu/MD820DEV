@@ -27,5 +27,6 @@
     "allowDebugging": true,
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
-  }
+  },
+ "applicationInsightsConnectionString": "InstrumentationKey=fa09ab83-70a5-4a8f-8059-c7e07f738972;IngestionEndpoint=https://northeurope-2.in.applicationinsights.azure.com/;LiveEndpoint=https://northeurope.livediagnostics.monitor.azure.com/;ApplicationId=b8f24af9-8020-4167-86f9-489f9722f4d4"
 }
