@@ -54,7 +54,7 @@ begin
         'Custom log with dimensions',           // Message text
         Verbosity::Normal,                      // Verbosity level
         DataClassification::SystemMetadata,     // Data classification
-        TelemetryScope::ExtensionPublisher,     // Scope
+        TelemetryScope::All,     // Scope
         Dimensions                              // Custom dimensions
     );
 end;
